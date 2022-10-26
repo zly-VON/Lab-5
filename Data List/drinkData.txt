@@ -1,0 +1,105 @@
+Coffee
+NoData
+1.99
+5
+0.150
+Cappuccino
+NoData
+1.99
+4
+0.200
+Hot Chocolate
+NoData
+2
+0
+0.200
+Black Tea
+20.10.2022
+1.5
+2
+0.200
+Green Tea
+20.10.2022
+1.99
+3
+0.200
+Coca Cola 
+12.12.2021
+1.30
+5
+0.5
+Sprite
+15.03.2022
+1.60
+2
+1
+Water
+17.08.2022
+1.09
+7
+1.5
+Red Bull
+13.12.2021
+0.80
+2
+1.5
+Apple Juice
+20.10.2022
+0.52
+4
+1
+Citus Juice
+20.10.2022
+1.68
+5
+1
+Cranberry Juice
+20.10.2022
+2.73
+1
+1
+Grapefruit Juice
+20.10.2022
+0.58
+4
+1
+Mineral Water
+20.10.2022
+0.32
+5
+1
+Pineapple Juice
+20.10.2022
+1.05
+4
+1
+Orange Juice
+20.10.2022
+1.11
+0
+1
+Rum
+20.10.2022
+4.87
+3
+1
+Tomato Juice
+20.10.2022
+0.57
+7
+1
+Whiskey
+20.10.2022
+10.94
+1
+1
+Wine
+20.10.2022
+3.32
+5
+1
+Milk 
+20.10.2002
+1.85
+2
+1
