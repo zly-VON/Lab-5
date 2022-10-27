@@ -23,7 +23,7 @@ Declared Classes:
 6. The item can be/become out of stock
 7. The worker of Fish/Meat Section can be temporarily on a break
 8. The customers goes to pay at the cashier
-9. If he has 4 items, he receives a 10% discount 
+9. If he has 12 items, he receives a 10% discount 
 10. There is a tiny possibility that the he trys to leave the store without paying
 11. There is a possibility to be stopped by the Security Guard to control the cheque
 12. If he has a cheque, he is free, if not, he must go to pay
